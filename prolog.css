@@ -266,6 +266,7 @@ font-size: 40px;
     
     .header_menu_li{
         float: right;
+        font-family: NotoSans;
         margin-right: 10px;
         font-size: 10px;
         font-weight: normal;
